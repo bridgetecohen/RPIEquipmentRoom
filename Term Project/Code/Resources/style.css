@@ -1,5 +1,5 @@
 body{
-	background-color: #d3d3d3;
+	background-image: url("binding_Dark.png");
 }
 
 #under{
@@ -11,7 +11,7 @@ body{
 }
 #menu{
 	float:right;
-	margin-right: 6%;
+	margin-right: 7%;
 	margin-top: 3%;
 	font-size: 20px;
 }
@@ -51,7 +51,7 @@ header img{
 	padding-top: 2px;
 	padding-bottom: 2px;
 	margin-left: 15%;
-	background-color: 87B4D9;
+	background-image:url("mooning.png");
 }
 
 .categories li{
@@ -63,7 +63,7 @@ header img{
 }
 
 .searchResults{
-	background-color: 87B4D9;
+	background-image:url("mooning.png");
 	margin-left: 40px;
 	margin-right: 40px;
 
@@ -134,8 +134,10 @@ form #box{
 }
 
 #logo{
-	margin-top: 20px;
-	margin-left: 3%;
+	padding-top: 5px;
+	margin-left: 5%;
+	height: 95px;
+	padding-bottom: 10px;
 }
 
 /* Simple Grid CSS */
@@ -181,6 +183,8 @@ body {
 	padding-top: 20px;
 	padding-left: 0px; /* grid-space to left */
 	padding-right: 0px; /* grid-space to right: (grid-space-left - column-space) e.g. 20px-20px=0 */
+	margin-left: 2%;
+	margin-bottom: 15px;
 }
 
 .push-right {
