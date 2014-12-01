@@ -12,7 +12,7 @@ body{
 #menu{
 	float:right;
 	margin-right: 7%;
-	margin-top: 3%;
+	margin-top: 4.5%;
 	font-size: 20px;
 }
 
@@ -135,9 +135,10 @@ form #box{
 
 #logo{
 	padding-top: 5px;
-	margin-left: 5%;
-	height: 95px;
-	padding-bottom: 10px;
+	margin-left: 4.5%;
+	height: 90px;
+	width: 200px;
+
 }
 
 /* Simple Grid CSS */
