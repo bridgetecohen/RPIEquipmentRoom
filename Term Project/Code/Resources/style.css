@@ -1,5 +1,6 @@
 body{
 	background-image: url("binding_Dark.png");
+	font-family: 'Open Sans', sans-serif;
 }
 
 #under{
@@ -12,7 +13,7 @@ body{
 #menu{
 	float:right;
 	margin-right: 7%;
-	margin-top: 4.5%;
+	margin-top: 4%;
 	font-size: 20px;
 }
 
@@ -137,7 +138,7 @@ form #box{
 	padding-top: 5px;
 	margin-left: 4.5%;
 	height: 90px;
-	width: 200px;
+	width: 210px;
 
 }
 
