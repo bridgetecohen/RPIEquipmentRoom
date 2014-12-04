@@ -50,6 +50,7 @@
 						$conn = new mysqli($servername, $username, $password, $dbName);
 
 						$havepost = isset($_POST["searchImg"]);
+						echo "$havepost";
 
 						// Query the information
 						if ($havepost) {
