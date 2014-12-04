@@ -1,19 +1,3 @@
-function camera() {
-	alert("Not working...");
-	var divs = document.getElementsByClassName("content");
-	for (i=0;i<divs.length();i++) {
-		divs[i].parentNode.removeChild(divs[i]);
-	}
+function reservation() {
+	alert("You have successfully reserved this item!");
 }
-/*
-function video() {
-
-}
-
-function cables() {
-
-}
-
-function misc() {
-
-}*/
